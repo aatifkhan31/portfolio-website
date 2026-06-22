@@ -73,4 +73,5 @@ B. S. Abdur Rahman Crescent Institute of Science and Technology
 GitHub: https://github.com/aatifkhan31
 
 LinkedIn: https://linkedin.com/in/aatif-khan-8767517b4/
+
 Created as part of my web development learning journey.
