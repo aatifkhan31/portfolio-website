@@ -9,7 +9,7 @@ This portfolio website was created as part of my web development learning journe
 ## Features
 
 - Responsive design
-- Clean and modern user interface
+- Simple and user-friendly interface
 - About Me section
 - Projects section
 - Contact information
@@ -55,14 +55,6 @@ Contains:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b8652c8-6b64-499c-b27e-124fed679412" />
 
 
-## Future Improvements
-
-- Add project images
-- Add dark mode
-- Add animations and transitions
-- Add downloadable resume
-- Add JavaScript interactivity
-
 ## Author
 
 **Aatif Khan S**
@@ -73,5 +65,3 @@ B. S. Abdur Rahman Crescent Institute of Science and Technology
 GitHub: https://github.com/aatifkhan31
 
 LinkedIn: https://linkedin.com/in/aatif-khan-8767517b4/
-
-Created as part of my web development learning journey.
